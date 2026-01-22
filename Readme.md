@@ -1,6 +1,6 @@
 📝 Movie List Project
 
-**Movie List** is a modern, front-end project designed for the users to simply search the movies and also choose their favourite movies and see them in favourite webite page.
+**Movie List** is a modern, front-end project designed for the users to simply search the movies and also choose their favourite movies and see them in favourite website page.
 
 🛠️ Built With
 
